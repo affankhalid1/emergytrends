@@ -12,7 +12,7 @@ export default async function Home () {
 
 
   return (
-    <section id = "Blog" className="bg-[url('./bg-3.jpg')] min-h-screen bg-cover bg-center">
+    <section id = "Blog" className="bg-black min-h-screen bg-cover bg-center">
       <div className='w-[70vw] mx-auto py-12 text-[#d3d3d3]'>
       <div className='text-center   mt-7 mb-16  text-[30px] xs:text-[42px] sm:text-[55px] md:text-[60px]'>BLOGS</div>
       <div className="blogs grid lg:grid-cols-2 2xl:grid-cols-3 gap-8 ">
